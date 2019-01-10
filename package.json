@@ -75,7 +75,7 @@
     "husky": "^0.14.3",
     "lint-staged": "^7.0.5",
     "prettier": "^1.12.1",
-    "webpack": "^4.6.0",
+    "webpack": "^4.28.4",
     "webpack-cli": "^3.0.4"
   }
 }
